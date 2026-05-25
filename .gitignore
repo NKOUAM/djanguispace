@@ -1,0 +1,15 @@
+﻿# Dépendances et builds
+node_modules/
+dist/
+.angular/
+npm-debug.log*
+
+# Fichiers de configuration sensibles
+.env
+.env.local
+*.env
+
+# Éditeurs
+.vscode/
+.idea/
+Thumbs.db

@@ -1,0 +1,21 @@
+{
+  "name": "tontine-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@ngx-translate/core": "^17.0.0",
+    "@ngx-translate/http-loader": "^17.0.0",
+    "@stripe/stripe-js": "^9.6.0",
+    "bootstrap-icons": "^1.13.1",
+    "chart.js": "^4.5.1",
+    "ng2-charts": "^10.0.0"
+  }
+}
